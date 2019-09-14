@@ -3,6 +3,7 @@ class Docker {
     { 
         String s = "Nature"; 
         s = s.concat("! is the best."); 
+	System.out.println("Testing Docker jenkins pipeline Project);
         System.out.println(s); 
     } 
 } 
